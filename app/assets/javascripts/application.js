@@ -46,8 +46,8 @@ $.ajax({
 
 function initMap() {
   var myOptions = {
-    zoom: 18,
-    minZoom: 18,
+    zoom: 20,
+    minZoom: 20,
 
     // scrollwheel: false,
     navigationControl: false,
@@ -62,12 +62,16 @@ function initMap() {
 
     // center: new google.maps.LatLng(37.7786871, -122.42124239999998),
     // center: new google.maps.LatLng((37.8044) / 1, (-122.2711) / 1),
-    center: new google.maps.LatLng((37.796100000000003) / 1, (-122.239) / 1),
+    // 37.796030384465006 -122.24247488548396
+
+    center: new google.maps.LatLng((37.7959689196709) / 1, (-122.24153611232873) / 1),
+    // center: new google.maps.LatLng((37.796030384465006) / 1, (-122.24247488548396) / 1),
     // center: new google.maps.LatLng((37.7786871 + 37.79593620000001) / 2, (-122.42124239999998 - 122.40000320000001) / 2),
-    // mapTypeId: google.maps.MapTypeId.ROADMAP
-    mapTypeControlOptions: {
-      mapTypeIds: [google.maps.MapTypeId.ROADMAP, 'grayscale']
-    }
+    // mapTypeId: google.maps.MapTypeId.SATELLITE
+    mapTypeId: google.maps.MapTypeId.HYBRID
+    // mapTypeControlOptions: {
+    //   mapTypeIds: [google.maps.MapTypeId.ROADMAP, 'grayscale']
+    // }
   };
 
   map = new google.maps.Map(document.getElementById('map'), myOptions);
