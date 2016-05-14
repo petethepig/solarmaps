@@ -111,33 +111,110 @@ aside {
 }
 
 .marker {
-  background-color: red;
   color: white;
   position: absolute;
 
   cursor: pointer;
   // height: 20px;
   background: #0074D9;
+  &.blue {
+    background: #0074D9;
+  }
+  &.yellow {
+    background: #FFDC00;
+    color: #4a4a4a;
+  }
+  &.green {
+    background: #2ECC40;
+  }
   border-radius: 3px;
   line-height: 1.25;
   padding: 4px 7px;
   font-size: 15px;
   text-align: center;
+  width: 140px;
+  margin-left: -70px;
+  margin-top: -40px;
+  height: 40px;
+  font-size: 20px;
+  box-shadow: 0 2px 3px rgba(0,0,0,0.33);
+  font-weight: bold;
+  line-height: 0.8;
+  padding: 10px 0 0;
+  .small {
+    font-weight: normal;
+  }
+}
+
+.marker {
+  transform: scale(0.5);
+  opacity: 0;
+  $easing: cubic-bezier(0.250, 0.250, 0.600, 1.390);
+  // $easing: cubic-bezier(0.215, 0.61, 0.355, 1);
+  transition: transform 0.25s $easing, opacity 0.15s;
+  .bubble {
+    position: absolute;
+    background-color: #FF4136;
+    top: -10px;
+    right: -10px;
+    width: 20px;
+    height: 20px;
+    border-radius: 50%;
+    font-size: 12px;
+    line-height: 20px;
+  }
+}
+
+.marker.fade-in {
+  transform: scale(1);
+  opacity: 1;
+}
+
+.mdl-button--raised.mdl-button--colored {
+  color: white;
+}
+
+$logo-w: 4em;
+
+.logo {
+  // background-color: orange;
+  background-image: image-url("logo.png");
+  background-repeat: no-repeat;
+  background-size: 100%;
+  width: $logo-w;
+  height: $logo-w;
+  position: absolute;
+  top: 1em;
+  left: 1em;
+  opacity: 0;
+  transition: opacity 0.5s, transform 0.5s;
+  transform: translate(100px, 0);
+  &.fade-in {
+    transform: translate(0, 0);
+    opacity: 1;
+  }
 }
 
 
-  .marker {
-    transform: scale(0.5);
-    opacity: 0;
-    $easing: cubic-bezier(0.250, 0.250, 0.600, 1.390);
-    // $easing: cubic-bezier(0.215, 0.61, 0.355, 1);
-    transition: transform 0.25s $easing, opacity 0.15s;
-  }
-
-  .marker.fade-in {
-    transform: scale(1);
+.search-bar {
+  background-color: white;
+  box-shadow: 0 2px 5px rgba(0,0,0,0.33);
+  padding: 0 1em;
+  position: absolute;
+  top: 1em;
+  left: $logo-w + 2em;
+  opacity: 0;
+  border-radius: 3px;
+  transition: opacity 0.5s, transform 0.5s;
+  transform: translate(100px, 0);
+  &.fade-in {
+    transform: translate(0, 0);
     opacity: 1;
   }
+  .mdl-textfield {
+    padding: 10px 0;
+  }
+}
 
 aside {
   background-color: #ccc;
@@ -153,15 +230,28 @@ aside {
   transition: transform 0.5s;
 
   .aside-section {
+    padding: 1em;
+
     &.green {
       background-color: #2ECC40;
       color: white;
     }
-    padding: 1em;
+
+    &.blue {
+      background: #0074D9;
+      color: white;
+    }
+
+    &.yellow {
+      background-color: #FFDC00;
+      color: #4a4a4a;
+    }
+
     *:first-child{
       margin-top: 0;
       padding-top: 0;
     }
+
     *:last-child{
       margin-bottom: 0;
       padding-bottom: 0;
@@ -223,4 +313,72 @@ code {
   display: block;
   width: 100%;
   height: 100%;
+}
+
+.small {
+  font-size: 0.5em;
+}
+
+body {
+  font-family: "Roboto","Helvetica","Arial",sans-serif;
+}
+
+.smaller {
+  font-size: 0.9em;
+  line-height: 1.5;
+}
+
+.pull-right {
+  text-align: right;
+}
+
+.mdl-button--raised.mdl-button--colored.mdl-button--colored--yellow {
+  background-color: #FFDC00;
+  color: #4a4a4a;
+}
+
+.mdl-button--raised.mdl-button--colored.mdl-button--colored--blue {
+  background-color: #0074D9;
+  color: white;
+}
+
+.mdl-button--raised.mdl-button--colored.mdl-button--colored--green {
+  background-color: #2ECC40;
+  color: white;
+}
+
+.mb0 {
+  margin-bottom: 0;
+}
+
+.mb0 + * {
+  margin-top: 0;
+}
+
+.kWh{
+  display: flex;
+  span, img {
+    &:first-child{
+      flex:1;
+      margin-bottom: 0.25em;
+    }
+  }
+}
+
+
+.bid-logo {
+  width: 100px;
+}
+
+.float-right {
+  float: right;
+}
+
+.logo-hor {
+  width: 300px;
+  height: auto;
+}
+
+.logo-hor + * {
+  margin-top: 0;
 }

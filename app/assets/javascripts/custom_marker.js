@@ -17,8 +17,9 @@ CustomMarker.prototype.draw = function() {
   
     div = this.div = document.createElement('div');
     
-    div.className = "marker";
+    div.className = "marker "+this.args.class;
     div.innerHTML = this.args.text;
+    $(div).data(this.args.data);
     
     if (typeof(self.args.marker_id) !== 'undefined') {
       div.dataset.marker_id = self.args.marker_id;

@@ -1,0 +1,1743 @@
+{
+  "HouseInfoResponse": {
+    "bounding_point": [
+      {
+        "latitude": 37.8299379,
+        "longitude": -122.2620741
+      },
+      {
+        "latitude": 37.8299315,
+        "longitude": -122.2620821
+      },
+      {
+        "latitude": 37.8299231,
+        "longitude": -122.2620821
+      },
+      {
+        "latitude": 37.8299146,
+        "longitude": -122.2620928
+      },
+      {
+        "latitude": 37.8299104,
+        "longitude": -122.2620928
+      },
+      {
+        "latitude": 37.8299061,
+        "longitude": -122.2620875
+      },
+      {
+        "latitude": 37.8299019,
+        "longitude": -122.2620928
+      },
+      {
+        "latitude": 37.8298849,
+        "longitude": -122.2620928
+      },
+      {
+        "latitude": 37.8298743,
+        "longitude": -122.2621009
+      },
+      {
+        "latitude": 37.8298765,
+        "longitude": -122.2621089
+      },
+      {
+        "latitude": 37.8298807,
+        "longitude": -122.2621036
+      },
+      {
+        "latitude": 37.8298849,
+        "longitude": -122.2621036
+      },
+      {
+        "latitude": 37.8298913,
+        "longitude": -122.2621116
+      },
+      {
+        "latitude": 37.8298913,
+        "longitude": -122.2621223
+      },
+      {
+        "latitude": 37.8298955,
+        "longitude": -122.2621277
+      },
+      {
+        "latitude": 37.8298955,
+        "longitude": -122.2621331
+      },
+      {
+        "latitude": 37.829904,
+        "longitude": -122.2621438
+      },
+      {
+        "latitude": 37.829904,
+        "longitude": -122.2621813
+      },
+      {
+        "latitude": 37.8299082,
+        "longitude": -122.2621867
+      },
+      {
+        "latitude": 37.8299082,
+        "longitude": -122.2621974
+      },
+      {
+        "latitude": 37.829904,
+        "longitude": -122.2622028
+      },
+      {
+        "latitude": 37.8299019,
+        "longitude": -122.2622162
+      },
+      {
+        "latitude": 37.8298955,
+        "longitude": -122.2622135
+      },
+      {
+        "latitude": 37.8298955,
+        "longitude": -122.2621974
+      },
+      {
+        "latitude": 37.8298913,
+        "longitude": -122.2621921
+      },
+      {
+        "latitude": 37.8298913,
+        "longitude": -122.2621706
+      },
+      {
+        "latitude": 37.829887,
+        "longitude": -122.2621652
+      },
+      {
+        "latitude": 37.829887,
+        "longitude": -122.2621438
+      },
+      {
+        "latitude": 37.8298828,
+        "longitude": -122.2621384
+      },
+      {
+        "latitude": 37.8298828,
+        "longitude": -122.2621223
+      },
+      {
+        "latitude": 37.8298807,
+        "longitude": -122.2621197
+      },
+      {
+        "latitude": 37.8298722,
+        "longitude": -122.2621197
+      },
+      {
+        "latitude": 37.829868,
+        "longitude": -122.262125
+      },
+      {
+        "latitude": 37.8298468,
+        "longitude": -122.262125
+      },
+      {
+        "latitude": 37.8298426,
+        "longitude": -122.2621304
+      },
+      {
+        "latitude": 37.8298341,
+        "longitude": -122.2621304
+      },
+      {
+        "latitude": 37.8298298,
+        "longitude": -122.2621357
+      },
+      {
+        "latitude": 37.8298087,
+        "longitude": -122.2621357
+      },
+      {
+        "latitude": 37.8298044,
+        "longitude": -122.2621411
+      },
+      {
+        "latitude": 37.8297875,
+        "longitude": -122.2621411
+      },
+      {
+        "latitude": 37.8297832,
+        "longitude": -122.2621465
+      },
+      {
+        "latitude": 37.8297663,
+        "longitude": -122.2621465
+      },
+      {
+        "latitude": 37.8297621,
+        "longitude": -122.2621518
+      },
+      {
+        "latitude": 37.8297493,
+        "longitude": -122.2621518
+      },
+      {
+        "latitude": 37.8297451,
+        "longitude": -122.2621572
+      },
+      {
+        "latitude": 37.8297366,
+        "longitude": -122.2621572
+      },
+      {
+        "latitude": 37.8297345,
+        "longitude": -122.2621545
+      },
+      {
+        "latitude": 37.8297388,
+        "longitude": -122.2621492
+      },
+      {
+        "latitude": 37.8297388,
+        "longitude": -122.2621384
+      },
+      {
+        "latitude": 37.8297239,
+        "longitude": -122.262125
+      },
+      {
+        "latitude": 37.8297176,
+        "longitude": -122.2621116
+      },
+      {
+        "latitude": 37.8297176,
+        "longitude": -122.2620794
+      },
+      {
+        "latitude": 37.8297133,
+        "longitude": -122.2620741
+      },
+      {
+        "latitude": 37.8297133,
+        "longitude": -122.262058
+      },
+      {
+        "latitude": 37.8297091,
+        "longitude": -122.2620526
+      },
+      {
+        "latitude": 37.8297091,
+        "longitude": -122.2620311
+      },
+      {
+        "latitude": 37.8297049,
+        "longitude": -122.2620258
+      },
+      {
+        "latitude": 37.8297049,
+        "longitude": -122.261999
+      },
+      {
+        "latitude": 37.8297176,
+        "longitude": -122.2619829
+      },
+      {
+        "latitude": 37.8297176,
+        "longitude": -122.2619775
+      },
+      {
+        "latitude": 37.8297112,
+        "longitude": -122.2619694
+      },
+      {
+        "latitude": 37.82969,
+        "longitude": -122.2619694
+      },
+      {
+        "latitude": 37.8296837,
+        "longitude": -122.261956
+      },
+      {
+        "latitude": 37.8296837,
+        "longitude": -122.2619399
+      },
+      {
+        "latitude": 37.82969,
+        "longitude": -122.2619319
+      },
+      {
+        "latitude": 37.829707,
+        "longitude": -122.2619319
+      },
+      {
+        "latitude": 37.8297112,
+        "longitude": -122.2619265
+      },
+      {
+        "latitude": 37.8297239,
+        "longitude": -122.2619265
+      },
+      {
+        "latitude": 37.8297282,
+        "longitude": -122.2619212
+      },
+      {
+        "latitude": 37.8297493,
+        "longitude": -122.2619212
+      },
+      {
+        "latitude": 37.8297536,
+        "longitude": -122.2619158
+      },
+      {
+        "latitude": 37.8297663,
+        "longitude": -122.2619158
+      },
+      {
+        "latitude": 37.8297705,
+        "longitude": -122.2619104
+      },
+      {
+        "latitude": 37.8297875,
+        "longitude": -122.2619104
+      },
+      {
+        "latitude": 37.8297917,
+        "longitude": -122.2619051
+      },
+      {
+        "latitude": 37.8298087,
+        "longitude": -122.2619051
+      },
+      {
+        "latitude": 37.8298129,
+        "longitude": -122.2618997
+      },
+      {
+        "latitude": 37.8298341,
+        "longitude": -122.2618997
+      },
+      {
+        "latitude": 37.8298362,
+        "longitude": -122.2619024
+      },
+      {
+        "latitude": 37.829832,
+        "longitude": -122.2619078
+      },
+      {
+        "latitude": 37.829832,
+        "longitude": -122.2619346
+      },
+      {
+        "latitude": 37.8298256,
+        "longitude": -122.2619426
+      },
+      {
+        "latitude": 37.8298044,
+        "longitude": -122.261948
+      },
+      {
+        "latitude": 37.8298023,
+        "longitude": -122.261956
+      },
+      {
+        "latitude": 37.8298044,
+        "longitude": -122.2619587
+      },
+      {
+        "latitude": 37.8298468,
+        "longitude": -122.2619587
+      },
+      {
+        "latitude": 37.829851,
+        "longitude": -122.2619534
+      },
+      {
+        "latitude": 37.8298637,
+        "longitude": -122.2619534
+      },
+      {
+        "latitude": 37.829868,
+        "longitude": -122.261948
+      },
+      {
+        "latitude": 37.8298849,
+        "longitude": -122.261948
+      },
+      {
+        "latitude": 37.8298892,
+        "longitude": -122.2619426
+      },
+      {
+        "latitude": 37.8299019,
+        "longitude": -122.2619426
+      },
+      {
+        "latitude": 37.8299104,
+        "longitude": -122.2619534
+      },
+      {
+        "latitude": 37.8299167,
+        "longitude": -122.261956
+      },
+      {
+        "latitude": 37.8299167,
+        "longitude": -122.2619721
+      },
+      {
+        "latitude": 37.8299252,
+        "longitude": -122.2619882
+      },
+      {
+        "latitude": 37.8299252,
+        "longitude": -122.2620043
+      },
+      {
+        "latitude": 37.8299209,
+        "longitude": -122.2620097
+      },
+      {
+        "latitude": 37.8299209,
+        "longitude": -122.2620204
+      },
+      {
+        "latitude": 37.8299294,
+        "longitude": -122.2620258
+      },
+      {
+        "latitude": 37.8299294,
+        "longitude": -122.2620472
+      },
+      {
+        "latitude": 37.8299379,
+        "longitude": -122.262058
+      },
+      {
+        "latitude": 37.8299379,
+        "longitude": -122.2620687
+      }
+    ],
+    "house_assumptions": {
+      "discount_rate_percent": 4,
+      "electricity_provider": "Pacific Gas and Electric Company (PG&E)",
+      "rate_plan_name": "",
+      "roof_good_solar_square_feet": 2872.816,
+      "yearly_hours_direct_sunlight": 1832.6641,
+      "yearly_panel_degradation": 0.5,
+      "yearly_price_increase": 2.2
+    },
+    "house_center": {
+      "latitude": 37.8298087,
+      "longitude": -122.2620321
+    },
+    "house_found": true,
+    "solar_panel_installers_response": {
+      "installer": [
+        {
+          "creative_text": "Free custom quote, no home visit.",
+          "does_cash": true,
+          "does_lease": true,
+          "does_loan": true,
+          "id": 11,
+          "logo_url": "https://www.google.com/images/suncatcher/helio_logo.png",
+          "name": "HelioPower",
+          "num_installs": 5000,
+          "phone_number": "1 (877) 998-7341",
+          "website_url": "http://heliopower.com/welcome-to-heliopower/",
+          "year_established": 2001
+        },
+        {
+          "creative_text": "World   s Largest Renewable Developer",
+          "does_cash": true,
+          "does_lease": true,
+          "does_loan": true,
+          "id": 3,
+          "logo_url": "https://www.google.com/images/suncatcher/sunedisonLogo.png",
+          "name": "SunEdison",
+          "num_installs": 6600,
+          "phone_number": "1 (888) 924-6584",
+          "website_url": "https://www.sunedison.com/home-solar-systems",
+          "year_established": 1959
+        },
+        {
+          "creative_text": "70% more energy than typical panels",
+          "does_cash": true,
+          "does_lease": true,
+          "does_loan": true,
+          "id": 2,
+          "logo_url": "https://www.google.com/images/suncatcher/sunpower-logo.png",
+          "name": "SunPower",
+          "num_installs": 500000,
+          "phone_number": "1 (888) 931-9899",
+          "website_url": "https://us.sunpower.com/home-solar/",
+          "year_established": 1985
+        },
+        {
+          "creative_text": "Claim Your Power",
+          "does_cash": true,
+          "does_lease": true,
+          "does_loan": true,
+          "id": 1,
+          "logo_url": "https://www.google.com/images/suncatcher/nrg_energy_logo.png",
+          "name": "NRG Solar",
+          "num_installs": 16194,
+          "phone_number": "1 (866) 979-7595",
+          "website_url": "https://www.nrghomesolar.com/",
+          "year_established": 2007
+        },
+        {
+          "creative_text": "No-Hassle Quote from Solar Experts",
+          "does_cash": true,
+          "does_lease": true,
+          "does_loan": true,
+          "id": 8,
+          "logo_url": "https://www.google.com/images/suncatcher/sungevity.png",
+          "name": "Sungevity",
+          "num_installs": 0,
+          "phone_number": "1 (877) 998-9654",
+          "website_url": "http://www.sungevity.com/save?utm_source=beta&utm_medium=google&utm_campaign=suncatcher&referral-code=BLANK",
+          "year_established": 2007
+        }
+      ]
+    },
+    "solar_potential_html": "Your roof has <b>great</b> solar potential!  Customize your savings estimate below.",
+    "solar_savings_for_bill": [
+      {
+        "average_monthly_bill": 20,
+        "bill_assumptions": {
+          "current_kwh_per_year": 0
+        },
+        "default_bill": false
+      },
+      {
+        "average_monthly_bill": 25,
+        "bill_assumptions": {
+          "current_kwh_per_year": 0,
+          "twenty_year_cost_without_solar": 7511
+        },
+        "default_bill": false,
+        "solar_savings_for_bill_and_size": [
+          {
+            "annual_savings": -123,
+            "carbon_offset_in_trees": 0,
+            "energy_independence_percent": 95.164925,
+            "infull_details": {
+              "first_year_savings": 287,
+              "other_payments_description": "Modern solar arrays use micro-inverters and should require no maintenance during their first 20 years.",
+              "payback_period_in_years": 14,
+              "total_other_payments": 0,
+              "twenty_year_savings": 6781,
+              "twenty_year_savings_present_value": 115.20039,
+              "upfront_cost": 4505
+            },
+            "leasing_details": {
+              "first_year_savings": -133,
+              "other_payments_description": "240 monthly lease payments of $35.",
+              "payback_period_in_years": -1,
+              "total_other_payments": 8404.572,
+              "twenty_year_savings": -1623,
+              "twenty_year_savings_present_value": -1319.4438,
+              "upfront_cost": 0
+            },
+            "loan_details": {
+              "first_year_savings": -120,
+              "other_payments_description": "240 monthly loan payments of $34.  Assumes 6.6% interest.",
+              "payback_period_in_years": -1,
+              "total_other_payments": 8146.0615,
+              "twenty_year_savings": -1365,
+              "twenty_year_savings_present_value": -1136.7539,
+              "upfront_cost": 0
+            },
+            "maximum_size": false,
+            "num_panels": 4,
+            "recommended_size": true,
+            "size_assumptions": {
+              "federal_description": "Federal Investment Tax Credit (ITC)",
+              "federal_incentive": 1930,
+              "initial_kwh_per_year": 0,
+              "out_of_pocket_cost": 6435.491,
+              "srec_total": 0,
+              "state_description": "State tax credit",
+              "state_incentive": 0,
+              "total_remaining_bill": 730,
+              "utility_incentive": 0
+            }
+          }
+        ]
+      },
+      {
+        "average_monthly_bill": 30,
+        "bill_assumptions": {
+          "current_kwh_per_year": 0,
+          "twenty_year_cost_without_solar": 9013
+        },
+        "default_bill": false,
+        "solar_savings_for_bill_and_size": [
+          {
+            "annual_savings": -100.8,
+            "carbon_offset_in_trees": 0,
+            "energy_independence_percent": 99.08594,
+            "infull_details": {
+              "first_year_savings": 358,
+              "other_payments_description": "Modern solar arrays use micro-inverters and should require no maintenance during their first 20 years.",
+              "payback_period_in_years": 12.5,
+              "total_other_payments": 0,
+              "twenty_year_savings": 8473,
+              "twenty_year_savings_present_value": 711.6563,
+              "upfront_cost": 5061
+            },
+            "leasing_details": {
+              "first_year_savings": -114,
+              "other_payments_description": "240 monthly lease payments of $39.",
+              "payback_period_in_years": -1,
+              "total_other_payments": 9441.85,
+              "twenty_year_savings": -969,
+              "twenty_year_savings_present_value": -900.0493,
+              "upfront_cost": 0
+            },
+            "loan_details": {
+              "first_year_savings": -99,
+              "other_payments_description": "240 monthly loan payments of $38.  Assumes 6.6% interest.",
+              "payback_period_in_years": -1,
+              "total_other_payments": 9151.434,
+              "twenty_year_savings": -679,
+              "twenty_year_savings_present_value": -694.813,
+              "upfront_cost": 0
+            },
+            "maximum_size": false,
+            "num_panels": 5,
+            "recommended_size": true,
+            "size_assumptions": {
+              "federal_description": "Federal Investment Tax Credit (ITC)",
+              "federal_incentive": 2168,
+              "initial_kwh_per_year": 0,
+              "out_of_pocket_cost": 7229.748,
+              "srec_total": 0,
+              "state_description": "State tax credit",
+              "state_incentive": 0,
+              "total_remaining_bill": 541,
+              "utility_incentive": 0
+            }
+          }
+        ]
+      },
+      {
+        "average_monthly_bill": 35,
+        "bill_assumptions": {
+          "current_kwh_per_year": 0,
+          "twenty_year_cost_without_solar": 10515
+        },
+        "default_bill": false,
+        "solar_savings_for_bill_and_size": [
+          {
+            "annual_savings": -99.8,
+            "carbon_offset_in_trees": 0,
+            "energy_independence_percent": 85.096596,
+            "infull_details": {
+              "first_year_savings": 359,
+              "other_payments_description": "Modern solar arrays use micro-inverters and should require no maintenance during their first 20 years.",
+              "payback_period_in_years": 12.5,
+              "total_other_payments": 0,
+              "twenty_year_savings": 8493,
+              "twenty_year_savings_present_value": 725.5228,
+              "upfront_cost": 5061
+            },
+            "leasing_details": {
+              "first_year_savings": -113,
+              "other_payments_description": "240 monthly lease payments of $39.",
+              "payback_period_in_years": -1,
+              "total_other_payments": 9441.85,
+              "twenty_year_savings": -949,
+              "twenty_year_savings_present_value": -886.1826,
+              "upfront_cost": 0
+            },
+            "loan_details": {
+              "first_year_savings": -98,
+              "other_payments_description": "240 monthly loan payments of $38.  Assumes 6.6% interest.",
+              "payback_period_in_years": -1,
+              "total_other_payments": 9151.434,
+              "twenty_year_savings": -658,
+              "twenty_year_savings_present_value": -680.9463,
+              "upfront_cost": 0
+            },
+            "maximum_size": false,
+            "num_panels": 5,
+            "recommended_size": true,
+            "size_assumptions": {
+              "federal_description": "Federal Investment Tax Credit (ITC)",
+              "federal_incentive": 2168,
+              "initial_kwh_per_year": 0,
+              "out_of_pocket_cost": 7229.748,
+              "srec_total": 0,
+              "state_description": "State tax credit",
+              "state_incentive": 0,
+              "total_remaining_bill": 2023,
+              "utility_incentive": 0
+            }
+          }
+        ]
+      },
+      {
+        "average_monthly_bill": 40,
+        "bill_assumptions": {
+          "current_kwh_per_year": 0,
+          "twenty_year_cost_without_solar": 12018
+        },
+        "default_bill": false,
+        "solar_savings_for_bill_and_size": [
+          {
+            "annual_savings": -72.8,
+            "carbon_offset_in_trees": 0,
+            "energy_independence_percent": 90.14315,
+            "infull_details": {
+              "first_year_savings": 436,
+              "other_payments_description": "Modern solar arrays use micro-inverters and should require no maintenance during their first 20 years.",
+              "payback_period_in_years": 11.5,
+              "total_other_payments": 0,
+              "twenty_year_savings": 10299,
+              "twenty_year_savings_present_value": 1399.213,
+              "upfront_cost": 5617
+            },
+            "leasing_details": {
+              "first_year_savings": -88,
+              "other_payments_description": "240 monthly lease payments of $44.",
+              "payback_period_in_years": -1,
+              "total_other_payments": 10479.127,
+              "twenty_year_savings": -180,
+              "twenty_year_savings_present_value": -389.55127,
+              "upfront_cost": 0
+            },
+            "loan_details": {
+              "first_year_savings": -72,
+              "other_payments_description": "240 monthly loan payments of $42.  Assumes 6.6% interest.",
+              "payback_period_in_years": -1,
+              "total_other_payments": 10156.807,
+              "twenty_year_savings": 142,
+              "twenty_year_savings_present_value": -161.76953,
+              "upfront_cost": 0
+            },
+            "maximum_size": false,
+            "num_panels": 6,
+            "recommended_size": true,
+            "size_assumptions": {
+              "federal_description": "Federal Investment Tax Credit (ITC)",
+              "federal_incentive": 2407,
+              "initial_kwh_per_year": 0,
+              "out_of_pocket_cost": 8024.005,
+              "srec_total": 0,
+              "state_description": "State tax credit",
+              "state_incentive": 0,
+              "total_remaining_bill": 1719,
+              "utility_incentive": 0
+            }
+          }
+        ]
+      },
+      {
+        "average_monthly_bill": 45,
+        "bill_assumptions": {
+          "current_kwh_per_year": 0,
+          "twenty_year_cost_without_solar": 13520
+        },
+        "default_bill": false,
+        "solar_savings_for_bill_and_size": [
+          {
+            "annual_savings": -42.6,
+            "carbon_offset_in_trees": 0,
+            "energy_independence_percent": 94.66627,
+            "infull_details": {
+              "first_year_savings": 515,
+              "other_payments_description": "Modern solar arrays use micro-inverters and should require no maintenance during their first 20 years.",
+              "payback_period_in_years": 10.75,
+              "total_other_payments": 0,
+              "twenty_year_savings": 12178,
+              "twenty_year_savings_present_value": 2122.583,
+              "upfront_cost": 6173
+            },
+            "leasing_details": {
+              "first_year_savings": -61,
+              "other_payments_description": "240 monthly lease payments of $48.",
+              "payback_period_in_years": -1,
+              "total_other_payments": 11516.404,
+              "twenty_year_savings": 662,
+              "twenty_year_savings_present_value": 156.7539,
+              "upfront_cost": 0
+            },
+            "loan_details": {
+              "first_year_savings": -43,
+              "other_payments_description": "240 monthly loan payments of $47.  Assumes 6.6% interest.",
+              "payback_period_in_years": -1,
+              "total_other_payments": 11162.179,
+              "twenty_year_savings": 1016,
+              "twenty_year_savings_present_value": 407.083,
+              "upfront_cost": 0
+            },
+            "maximum_size": false,
+            "num_panels": 7,
+            "recommended_size": true,
+            "size_assumptions": {
+              "federal_description": "Federal Investment Tax Credit (ITC)",
+              "federal_incentive": 2645,
+              "initial_kwh_per_year": 0,
+              "out_of_pocket_cost": 8818.262,
+              "srec_total": 0,
+              "state_description": "State tax credit",
+              "state_incentive": 0,
+              "total_remaining_bill": 1342,
+              "utility_incentive": 0
+            }
+          }
+        ]
+      },
+      {
+        "average_monthly_bill": 50,
+        "bill_assumptions": {
+          "current_kwh_per_year": 0,
+          "twenty_year_cost_without_solar": 15022
+        },
+        "default_bill": false,
+        "solar_savings_for_bill_and_size": [
+          {
+            "annual_savings": -8.6,
+            "carbon_offset_in_trees": 0,
+            "energy_independence_percent": 99.00604,
+            "infull_details": {
+              "first_year_savings": 598,
+              "other_payments_description": "Modern solar arrays use micro-inverters and should require no maintenance during their first 20 years.",
+              "payback_period_in_years": 10.25,
+              "total_other_payments": 0,
+              "twenty_year_savings": 14151,
+              "twenty_year_savings_present_value": 2908.8303,
+              "upfront_cost": 6729
+            },
+            "leasing_details": {
+              "first_year_savings": -30,
+              "other_payments_description": "240 monthly lease payments of $52.",
+              "payback_period_in_years": -1,
+              "total_other_payments": 12553.683,
+              "twenty_year_savings": 1597,
+              "twenty_year_savings_present_value": 765.94336,
+              "upfront_cost": 0
+            },
+            "loan_details": {
+              "first_year_savings": -11,
+              "other_payments_description": "240 monthly loan payments of $51.  Assumes 6.6% interest.",
+              "payback_period_in_years": -1,
+              "total_other_payments": 12167.553,
+              "twenty_year_savings": 1983,
+              "twenty_year_savings_present_value": 1038.8203,
+              "upfront_cost": 0
+            },
+            "maximum_size": false,
+            "num_panels": 8,
+            "recommended_size": true,
+            "size_assumptions": {
+              "federal_description": "Federal Investment Tax Credit (ITC)",
+              "federal_incentive": 2883,
+              "initial_kwh_per_year": 0,
+              "out_of_pocket_cost": 9612.52,
+              "srec_total": 0,
+              "state_description": "State tax credit",
+              "state_incentive": 0,
+              "total_remaining_bill": 872,
+              "utility_incentive": 0
+            }
+          }
+        ]
+      },
+      {
+        "average_monthly_bill": 60,
+        "bill_assumptions": {
+          "current_kwh_per_year": 0,
+          "twenty_year_cost_without_solar": 18027
+        },
+        "default_bill": false,
+        "solar_savings_for_bill_and_size": [
+          {
+            "annual_savings": 45.6,
+            "carbon_offset_in_trees": 0,
+            "energy_independence_percent": 96.33538,
+            "infull_details": {
+              "first_year_savings": 700,
+              "other_payments_description": "Modern solar arrays use micro-inverters and should require no maintenance during their first 20 years.",
+              "payback_period_in_years": 9.5,
+              "total_other_payments": 0,
+              "twenty_year_savings": 16601,
+              "twenty_year_savings_present_value": 4018.587,
+              "upfront_cost": 7285
+            },
+            "leasing_details": {
+              "first_year_savings": 20,
+              "other_payments_description": "240 monthly lease payments of $57.",
+              "payback_period_in_years": -1,
+              "total_other_payments": 13590.958,
+              "twenty_year_savings": 3010,
+              "twenty_year_savings_present_value": 1698.6338,
+              "upfront_cost": 0
+            },
+            "loan_details": {
+              "first_year_savings": 41,
+              "other_payments_description": "240 monthly loan payments of $55.  Assumes 6.6% interest.",
+              "payback_period_in_years": -1,
+              "total_other_payments": 13172.924,
+              "twenty_year_savings": 3428,
+              "twenty_year_savings_present_value": 1994.0586,
+              "upfront_cost": 0
+            },
+            "maximum_size": false,
+            "num_panels": 9,
+            "recommended_size": true,
+            "size_assumptions": {
+              "federal_description": "Federal Investment Tax Credit (ITC)",
+              "federal_incentive": 3122,
+              "initial_kwh_per_year": 0,
+              "out_of_pocket_cost": 10406.775,
+              "srec_total": 0,
+              "state_description": "State tax credit",
+              "state_incentive": 0,
+              "total_remaining_bill": 1426,
+              "utility_incentive": 0
+            }
+          }
+        ]
+      },
+      {
+        "average_monthly_bill": 70,
+        "bill_assumptions": {
+          "current_kwh_per_year": 0,
+          "twenty_year_cost_without_solar": 21031
+        },
+        "default_bill": false,
+        "solar_savings_for_bill_and_size": [
+          {
+            "annual_savings": 101.6,
+            "carbon_offset_in_trees": 0,
+            "energy_independence_percent": 94.49665,
+            "infull_details": {
+              "first_year_savings": 804,
+              "other_payments_description": "Modern solar arrays use micro-inverters and should require no maintenance during their first 20 years.",
+              "payback_period_in_years": 9,
+              "total_other_payments": 0,
+              "twenty_year_savings": 19093,
+              "twenty_year_savings_present_value": 5156.945,
+              "upfront_cost": 7841
+            },
+            "leasing_details": {
+              "first_year_savings": 72,
+              "other_payments_description": "240 monthly lease payments of $61.",
+              "payback_period_in_years": -1,
+              "total_other_payments": 14628.237,
+              "twenty_year_savings": 4465,
+              "twenty_year_savings_present_value": 2659.9307,
+              "upfront_cost": 0
+            },
+            "loan_details": {
+              "first_year_savings": 95,
+              "other_payments_description": "240 monthly loan payments of $59.  Assumes 6.6% interest.",
+              "payback_period_in_years": -1,
+              "total_other_payments": 14178.297,
+              "twenty_year_savings": 4915,
+              "twenty_year_savings_present_value": 2977.9004,
+              "upfront_cost": 0
+            },
+            "maximum_size": false,
+            "num_panels": 10,
+            "recommended_size": true,
+            "size_assumptions": {
+              "federal_description": "Federal Investment Tax Credit (ITC)",
+              "federal_incentive": 3360,
+              "initial_kwh_per_year": 0,
+              "out_of_pocket_cost": 11201.033,
+              "srec_total": 0,
+              "state_description": "State tax credit",
+              "state_incentive": 0,
+              "total_remaining_bill": 1938,
+              "utility_incentive": 0
+            }
+          }
+        ]
+      },
+      {
+        "average_monthly_bill": 80,
+        "bill_assumptions": {
+          "current_kwh_per_year": 0,
+          "twenty_year_cost_without_solar": 24036
+        },
+        "default_bill": false,
+        "solar_savings_for_bill_and_size": [
+          {
+            "annual_savings": 159.4,
+            "carbon_offset_in_trees": 0,
+            "energy_independence_percent": 93.235664,
+            "infull_details": {
+              "first_year_savings": 909,
+              "other_payments_description": "Modern solar arrays use micro-inverters and should require no maintenance during their first 20 years.",
+              "payback_period_in_years": 8.5,
+              "total_other_payments": 0,
+              "twenty_year_savings": 21630,
+              "twenty_year_savings_present_value": 6325.3164,
+              "upfront_cost": 8397
+            },
+            "leasing_details": {
+              "first_year_savings": 126,
+              "other_payments_description": "240 monthly lease payments of $65.",
+              "payback_period_in_years": -1,
+              "total_other_payments": 15665.516,
+              "twenty_year_savings": 5965,
+              "twenty_year_savings_present_value": 3651.2412,
+              "upfront_cost": 0
+            },
+            "loan_details": {
+              "first_year_savings": 150,
+              "other_payments_description": "240 monthly loan payments of $63.  Assumes 6.6% interest.",
+              "payback_period_in_years": -1,
+              "total_other_payments": 15183.67,
+              "twenty_year_savings": 6447,
+              "twenty_year_savings_present_value": 3991.7588,
+              "upfront_cost": 0
+            },
+            "maximum_size": false,
+            "num_panels": 11,
+            "recommended_size": true,
+            "size_assumptions": {
+              "federal_description": "Federal Investment Tax Credit (ITC)",
+              "federal_incentive": 3598,
+              "initial_kwh_per_year": 0,
+              "out_of_pocket_cost": 11995.29,
+              "srec_total": 0,
+              "state_description": "State tax credit",
+              "state_incentive": 0,
+              "total_remaining_bill": 2406,
+              "utility_incentive": 0
+            }
+          }
+        ]
+      },
+      {
+        "average_monthly_bill": 90,
+        "bill_assumptions": {
+          "current_kwh_per_year": 0,
+          "twenty_year_cost_without_solar": 27041
+        },
+        "default_bill": false,
+        "solar_savings_for_bill_and_size": [
+          {
+            "annual_savings": 221.4,
+            "carbon_offset_in_trees": 0,
+            "energy_independence_percent": 92.6114,
+            "infull_details": {
+              "first_year_savings": 1019,
+              "other_payments_description": "Modern solar arrays use micro-inverters and should require no maintenance during their first 20 years.",
+              "payback_period_in_years": 8,
+              "total_other_payments": 0,
+              "twenty_year_savings": 24270,
+              "twenty_year_savings_present_value": 7563.1636,
+              "upfront_cost": 8953
+            },
+            "leasing_details": {
+              "first_year_savings": 184,
+              "other_payments_description": "240 monthly lease payments of $70.",
+              "payback_period_in_years": -1,
+              "total_other_payments": 16702.791,
+              "twenty_year_savings": 7567,
+              "twenty_year_savings_present_value": 4712.033,
+              "upfront_cost": 0
+            },
+            "loan_details": {
+              "first_year_savings": 209,
+              "other_payments_description": "240 monthly loan payments of $67.  Assumes 6.6% interest.",
+              "payback_period_in_years": -1,
+              "total_other_payments": 16189.041,
+              "twenty_year_savings": 8081,
+              "twenty_year_savings_present_value": 5075.0996,
+              "upfront_cost": 0
+            },
+            "maximum_size": false,
+            "num_panels": 12,
+            "recommended_size": true,
+            "size_assumptions": {
+              "federal_description": "Federal Investment Tax Credit (ITC)",
+              "federal_incentive": 3836,
+              "initial_kwh_per_year": 0,
+              "out_of_pocket_cost": 12789.547,
+              "srec_total": 0,
+              "state_description": "State tax credit",
+              "state_incentive": 0,
+              "total_remaining_bill": 2771,
+              "utility_incentive": 0
+            }
+          }
+        ]
+      },
+      {
+        "average_monthly_bill": 100,
+        "bill_assumptions": {
+          "current_kwh_per_year": 0,
+          "twenty_year_cost_without_solar": 30045
+        },
+        "default_bill": true,
+        "solar_savings_for_bill_and_size": [
+          {
+            "annual_savings": 308.4,
+            "carbon_offset_in_trees": 0,
+            "energy_independence_percent": 99.50586,
+            "infull_details": {
+              "first_year_savings": 1203,
+              "other_payments_description": "Modern solar arrays use micro-inverters and should require no maintenance during their first 20 years.",
+              "payback_period_in_years": 7.75,
+              "total_other_payments": 0,
+              "twenty_year_savings": 28664,
+              "twenty_year_savings_present_value": 9439.698,
+              "upfront_cost": 10065
+            },
+            "leasing_details": {
+              "first_year_savings": 264,
+              "other_payments_description": "240 monthly lease payments of $78.",
+              "payback_period_in_years": -1,
+              "total_other_payments": 18777.348,
+              "twenty_year_savings": 9887,
+              "twenty_year_savings_present_value": 6234.4473,
+              "upfront_cost": 0
+            },
+            "loan_details": {
+              "first_year_savings": 293,
+              "other_payments_description": "240 monthly loan payments of $76.  Assumes 6.6% interest.",
+              "payback_period_in_years": -1,
+              "total_other_payments": 18199.787,
+              "twenty_year_savings": 10465,
+              "twenty_year_savings_present_value": 6642.6084,
+              "upfront_cost": 0
+            },
+            "maximum_size": false,
+            "num_panels": 14,
+            "recommended_size": true,
+            "size_assumptions": {
+              "federal_description": "Federal Investment Tax Credit (ITC)",
+              "federal_incentive": 4313,
+              "initial_kwh_per_year": 0,
+              "out_of_pocket_cost": 14378.062,
+              "srec_total": 0,
+              "state_description": "State tax credit",
+              "state_incentive": 0,
+              "total_remaining_bill": 1381,
+              "utility_incentive": 0
+            }
+          }
+        ]
+      },
+      {
+        "average_monthly_bill": 125,
+        "bill_assumptions": {
+          "current_kwh_per_year": 0,
+          "twenty_year_cost_without_solar": 37556
+        },
+        "default_bill": false,
+        "solar_savings_for_bill_and_size": [
+          {
+            "annual_savings": 482.6,
+            "carbon_offset_in_trees": 0,
+            "energy_independence_percent": 96.58926,
+            "infull_details": {
+              "first_year_savings": 1470,
+              "other_payments_description": "Modern solar arrays use micro-inverters and should require no maintenance during their first 20 years.",
+              "payback_period_in_years": 7,
+              "total_other_payments": 0,
+              "twenty_year_savings": 35138,
+              "twenty_year_savings_present_value": 12723.612,
+              "upfront_cost": 11177
+            },
+            "leasing_details": {
+              "first_year_savings": 427,
+              "other_payments_description": "240 monthly lease payments of $87.",
+              "payback_period_in_years": -1,
+              "total_other_payments": 20851.902,
+              "twenty_year_savings": 14286,
+              "twenty_year_savings_present_value": 9164.242,
+              "upfront_cost": 0
+            },
+            "loan_details": {
+              "first_year_savings": 460,
+              "other_payments_description": "240 monthly loan payments of $84.  Assumes 6.6% interest.",
+              "payback_period_in_years": -1,
+              "total_other_payments": 20210.531,
+              "twenty_year_savings": 14928,
+              "twenty_year_savings_present_value": 9617.499,
+              "upfront_cost": 0
+            },
+            "maximum_size": false,
+            "num_panels": 16,
+            "recommended_size": true,
+            "size_assumptions": {
+              "federal_description": "Federal Investment Tax Credit (ITC)",
+              "federal_incentive": 4789,
+              "initial_kwh_per_year": 0,
+              "out_of_pocket_cost": 15966.575,
+              "srec_total": 0,
+              "state_description": "State tax credit",
+              "state_incentive": 0,
+              "total_remaining_bill": 2419,
+              "utility_incentive": 0
+            }
+          }
+        ]
+      },
+      {
+        "average_monthly_bill": 150,
+        "bill_assumptions": {
+          "current_kwh_per_year": 0,
+          "twenty_year_cost_without_solar": 45068
+        },
+        "default_bill": false,
+        "solar_savings_for_bill_and_size": [
+          {
+            "annual_savings": 675.4,
+            "carbon_offset_in_trees": 0,
+            "energy_independence_percent": 95.66724,
+            "infull_details": {
+              "first_year_savings": 1755,
+              "other_payments_description": "Modern solar arrays use micro-inverters and should require no maintenance during their first 20 years.",
+              "payback_period_in_years": 6.5,
+              "total_other_payments": 0,
+              "twenty_year_savings": 42047,
+              "twenty_year_savings_present_value": 16301.996,
+              "upfront_cost": 12289
+            },
+            "leasing_details": {
+              "first_year_savings": 609,
+              "other_payments_description": "240 monthly lease payments of $96.",
+              "payback_period_in_years": -1,
+              "total_other_payments": 22926.457,
+              "twenty_year_savings": 19121,
+              "twenty_year_savings_present_value": 12388.501,
+              "upfront_cost": 0
+            },
+            "loan_details": {
+              "first_year_savings": 644,
+              "other_payments_description": "240 monthly loan payments of $93.  Assumes 6.6% interest.",
+              "payback_period_in_years": -1,
+              "total_other_payments": 22221.277,
+              "twenty_year_savings": 19826,
+              "twenty_year_savings_present_value": 12886.85,
+              "upfront_cost": 0
+            },
+            "maximum_size": false,
+            "num_panels": 18,
+            "recommended_size": true,
+            "size_assumptions": {
+              "federal_description": "Federal Investment Tax Credit (ITC)",
+              "federal_incentive": 5266,
+              "initial_kwh_per_year": 0,
+              "out_of_pocket_cost": 17555.09,
+              "srec_total": 0,
+              "state_description": "State tax credit",
+              "state_incentive": 0,
+              "total_remaining_bill": 3021,
+              "utility_incentive": 0
+            }
+          }
+        ]
+      },
+      {
+        "average_monthly_bill": 175,
+        "bill_assumptions": {
+          "current_kwh_per_year": 0,
+          "twenty_year_cost_without_solar": 52579
+        },
+        "default_bill": false,
+        "solar_savings_for_bill_and_size": [
+          {
+            "annual_savings": 889.4,
+            "carbon_offset_in_trees": 0,
+            "energy_independence_percent": 99.762115,
+            "infull_details": {
+              "first_year_savings": 2111,
+              "other_payments_description": "Modern solar arrays use micro-inverters and should require no maintenance during their first 20 years.",
+              "payback_period_in_years": 6.25,
+              "total_other_payments": 0,
+              "twenty_year_savings": 50633,
+              "twenty_year_savings_present_value": 20466.1,
+              "upfront_cost": 13957
+            },
+            "leasing_details": {
+              "first_year_savings": 809,
+              "other_payments_description": "240 monthly lease payments of $108.",
+              "payback_period_in_years": -1,
+              "total_other_payments": 26038.29,
+              "twenty_year_savings": 24595,
+              "twenty_year_savings_present_value": 16021.414,
+              "upfront_cost": 0
+            },
+            "loan_details": {
+              "first_year_savings": 849,
+              "other_payments_description": "240 monthly loan payments of $105.  Assumes 6.6% interest.",
+              "payback_period_in_years": -1,
+              "total_other_payments": 25237.395,
+              "twenty_year_savings": 25396,
+              "twenty_year_savings_present_value": 16587.402,
+              "upfront_cost": 0
+            },
+            "maximum_size": false,
+            "num_panels": 21,
+            "recommended_size": true,
+            "size_assumptions": {
+              "federal_description": "Federal Investment Tax Credit (ITC)",
+              "federal_incentive": 5981,
+              "initial_kwh_per_year": 0,
+              "out_of_pocket_cost": 19937.86,
+              "srec_total": 0,
+              "state_description": "State tax credit",
+              "state_incentive": 0,
+              "total_remaining_bill": 1947,
+              "utility_incentive": 0
+            }
+          }
+        ]
+      },
+      {
+        "average_monthly_bill": 200,
+        "bill_assumptions": {
+          "current_kwh_per_year": 0,
+          "twenty_year_cost_without_solar": 60091
+        },
+        "default_bill": false,
+        "solar_savings_for_bill_and_size": [
+          {
+            "annual_savings": 1085.4,
+            "carbon_offset_in_trees": 0,
+            "energy_independence_percent": 98.906235,
+            "infull_details": {
+              "first_year_savings": 2399,
+              "other_payments_description": "Modern solar arrays use micro-inverters and should require no maintenance during their first 20 years.",
+              "payback_period_in_years": 5.75,
+              "total_other_payments": 0,
+              "twenty_year_savings": 57624,
+              "twenty_year_savings_present_value": 24099.494,
+              "upfront_cost": 15069
+            },
+            "leasing_details": {
+              "first_year_savings": 993,
+              "other_payments_description": "240 monthly lease payments of $117.",
+              "payback_period_in_years": -1,
+              "total_other_payments": 28112.848,
+              "twenty_year_savings": 29511,
+              "twenty_year_savings_present_value": 19300.686,
+              "upfront_cost": 0
+            },
+            "loan_details": {
+              "first_year_savings": 1036,
+              "other_payments_description": "240 monthly loan payments of $114.  Assumes 6.6% interest.",
+              "payback_period_in_years": -1,
+              "total_other_payments": 27248.143,
+              "twenty_year_savings": 30376,
+              "twenty_year_savings_present_value": 19911.768,
+              "upfront_cost": 0
+            },
+            "maximum_size": false,
+            "num_panels": 23,
+            "recommended_size": true,
+            "size_assumptions": {
+              "federal_description": "Federal Investment Tax Credit (ITC)",
+              "federal_incentive": 6457,
+              "initial_kwh_per_year": 0,
+              "out_of_pocket_cost": 21526.375,
+              "srec_total": 0,
+              "state_description": "State tax credit",
+              "state_incentive": 0,
+              "total_remaining_bill": 2467,
+              "utility_incentive": 0
+            }
+          }
+        ]
+      },
+      {
+        "average_monthly_bill": 225,
+        "bill_assumptions": {
+          "current_kwh_per_year": 0,
+          "twenty_year_cost_without_solar": 67602
+        },
+        "default_bill": false,
+        "solar_savings_for_bill_and_size": [
+          {
+            "annual_savings": 1281.4,
+            "carbon_offset_in_trees": 0,
+            "energy_independence_percent": 98.194405,
+            "infull_details": {
+              "first_year_savings": 2687,
+              "other_payments_description": "Modern solar arrays use micro-inverters and should require no maintenance during their first 20 years.",
+              "payback_period_in_years": 5.75,
+              "total_other_payments": 0,
+              "twenty_year_savings": 64615,
+              "twenty_year_savings_present_value": 27733.184,
+              "upfront_cost": 16181
+            },
+            "leasing_details": {
+              "first_year_savings": 1177,
+              "other_payments_description": "240 monthly lease payments of $126.",
+              "payback_period_in_years": -1,
+              "total_other_payments": 30187.4,
+              "twenty_year_savings": 34428,
+              "twenty_year_savings_present_value": 22580.246,
+              "upfront_cost": 0
+            },
+            "loan_details": {
+              "first_year_savings": 1224,
+              "other_payments_description": "240 monthly loan payments of $122.  Assumes 6.6% interest.",
+              "payback_period_in_years": -1,
+              "total_other_payments": 29258.885,
+              "twenty_year_savings": 35356,
+              "twenty_year_savings_present_value": 23236.428,
+              "upfront_cost": 0
+            },
+            "maximum_size": false,
+            "num_panels": 25,
+            "recommended_size": true,
+            "size_assumptions": {
+              "federal_description": "Federal Investment Tax Credit (ITC)",
+              "federal_incentive": 6934,
+              "initial_kwh_per_year": 0,
+              "out_of_pocket_cost": 23114.889,
+              "srec_total": 0,
+              "state_description": "State tax credit",
+              "state_incentive": 0,
+              "total_remaining_bill": 2988,
+              "utility_incentive": 0
+            }
+          }
+        ]
+      },
+      {
+        "average_monthly_bill": 250,
+        "bill_assumptions": {
+          "current_kwh_per_year": 0,
+          "twenty_year_cost_without_solar": 75113
+        },
+        "default_bill": false,
+        "solar_savings_for_bill_and_size": [
+          {
+            "annual_savings": 1477.4,
+            "carbon_offset_in_trees": 0,
+            "energy_independence_percent": 97.58553,
+            "infull_details": {
+              "first_year_savings": 2975,
+              "other_payments_description": "Modern solar arrays use micro-inverters and should require no maintenance during their first 20 years.",
+              "payback_period_in_years": 5.5,
+              "total_other_payments": 0,
+              "twenty_year_savings": 71603,
+              "twenty_year_savings_present_value": 31364.785,
+              "upfront_cost": 17293
+            },
+            "leasing_details": {
+              "first_year_savings": 1362,
+              "other_payments_description": "240 monthly lease payments of $134.",
+              "payback_period_in_years": -1,
+              "total_other_payments": 32261.957,
+              "twenty_year_savings": 39341,
+              "twenty_year_savings_present_value": 25857.734,
+              "upfront_cost": 0
+            },
+            "loan_details": {
+              "first_year_savings": 1411,
+              "other_payments_description": "240 monthly loan payments of $130.  Assumes 6.6% interest.",
+              "payback_period_in_years": -1,
+              "total_other_payments": 31269.633,
+              "twenty_year_savings": 40333,
+              "twenty_year_savings_present_value": 26559.004,
+              "upfront_cost": 0
+            },
+            "maximum_size": false,
+            "num_panels": 27,
+            "recommended_size": true,
+            "size_assumptions": {
+              "federal_description": "Federal Investment Tax Credit (ITC)",
+              "federal_incentive": 7411,
+              "initial_kwh_per_year": 0,
+              "out_of_pocket_cost": 24703.402,
+              "srec_total": 0,
+              "state_description": "State tax credit",
+              "state_incentive": 0,
+              "total_remaining_bill": 3511,
+              "utility_incentive": 0
+            }
+          }
+        ]
+      },
+      {
+        "average_monthly_bill": 300,
+        "bill_assumptions": {
+          "current_kwh_per_year": 0,
+          "twenty_year_cost_without_solar": 90136
+        },
+        "default_bill": false,
+        "solar_savings_for_bill_and_size": [
+          {
+            "annual_savings": 1884.4,
+            "carbon_offset_in_trees": 0,
+            "energy_independence_percent": 99.559784,
+            "infull_details": {
+              "first_year_savings": 3616,
+              "other_payments_description": "Modern solar arrays use micro-inverters and should require no maintenance during their first 20 years.",
+              "payback_period_in_years": 5.25,
+              "total_other_payments": 0,
+              "twenty_year_savings": 87107,
+              "twenty_year_savings_present_value": 39112.625,
+              "upfront_cost": 20073
+            },
+            "leasing_details": {
+              "first_year_savings": 1743,
+              "other_payments_description": "240 monthly lease payments of $156.",
+              "payback_period_in_years": -1,
+              "total_other_payments": 37448.344,
+              "twenty_year_savings": 49658,
+              "twenty_year_savings_present_value": 32720.264,
+              "upfront_cost": 0
+            },
+            "loan_details": {
+              "first_year_savings": 1801,
+              "other_payments_description": "240 monthly loan payments of $151.  Assumes 6.6% interest.",
+              "payback_period_in_years": -1,
+              "total_other_payments": 36296.492,
+              "twenty_year_savings": 50810,
+              "twenty_year_savings_present_value": 33534.27,
+              "upfront_cost": 0
+            },
+            "maximum_size": false,
+            "num_panels": 32,
+            "recommended_size": true,
+            "size_assumptions": {
+              "federal_description": "Federal Investment Tax Credit (ITC)",
+              "federal_incentive": 8602,
+              "initial_kwh_per_year": 0,
+              "out_of_pocket_cost": 28674.688,
+              "srec_total": 0,
+              "state_description": "State tax credit",
+              "state_incentive": 0,
+              "total_remaining_bill": 3030,
+              "utility_incentive": 0
+            }
+          }
+        ]
+      },
+      {
+        "average_monthly_bill": 350,
+        "bill_assumptions": {
+          "current_kwh_per_year": 0,
+          "twenty_year_cost_without_solar": 105159
+        },
+        "default_bill": false,
+        "solar_savings_for_bill_and_size": [
+          {
+            "annual_savings": 2273.8,
+            "carbon_offset_in_trees": 0,
+            "energy_independence_percent": 98.3761,
+            "infull_details": {
+              "first_year_savings": 4189,
+              "other_payments_description": "Modern solar arrays use micro-inverters and should require no maintenance during their first 20 years.",
+              "payback_period_in_years": 5,
+              "total_other_payments": 0,
+              "twenty_year_savings": 101028,
+              "twenty_year_savings_present_value": 46338.723,
+              "upfront_cost": 22297
+            },
+            "leasing_details": {
+              "first_year_savings": 2109,
+              "other_payments_description": "240 monthly lease payments of $173.",
+              "payback_period_in_years": -1,
+              "total_other_payments": 41597.453,
+              "twenty_year_savings": 59431,
+              "twenty_year_savings_present_value": 39238.117,
+              "upfront_cost": 0
+            },
+            "loan_details": {
+              "first_year_savings": 2173,
+              "other_payments_description": "240 monthly loan payments of $168.  Assumes 6.6% interest.",
+              "payback_period_in_years": -1,
+              "total_other_payments": 40317.98,
+              "twenty_year_savings": 60710,
+              "twenty_year_savings_present_value": 40142.316,
+              "upfront_cost": 0
+            },
+            "maximum_size": false,
+            "num_panels": 36,
+            "recommended_size": true,
+            "size_assumptions": {
+              "federal_description": "Federal Investment Tax Credit (ITC)",
+              "federal_incentive": 9555,
+              "initial_kwh_per_year": 0,
+              "out_of_pocket_cost": 31851.715,
+              "srec_total": 0,
+              "state_description": "State tax credit",
+              "state_incentive": 0,
+              "total_remaining_bill": 4131,
+              "utility_incentive": 0
+            }
+          }
+        ]
+      },
+      {
+        "average_monthly_bill": 400,
+        "bill_assumptions": {
+          "current_kwh_per_year": 0,
+          "twenty_year_cost_without_solar": 120182
+        },
+        "default_bill": false,
+        "solar_savings_for_bill_and_size": [
+          {
+            "annual_savings": 2677,
+            "carbon_offset_in_trees": 0,
+            "energy_independence_percent": 99.72677,
+            "infull_details": {
+              "first_year_savings": 4826,
+              "other_payments_description": "Modern solar arrays use micro-inverters and should require no maintenance during their first 20 years.",
+              "payback_period_in_years": 4.75,
+              "total_other_payments": 0,
+              "twenty_year_savings": 116451,
+              "twenty_year_savings_present_value": 54031.477,
+              "upfront_cost": 25077
+            },
+            "leasing_details": {
+              "first_year_savings": 2487,
+              "other_payments_description": "240 monthly lease payments of $195.",
+              "payback_period_in_years": -1,
+              "total_other_payments": 46783.836,
+              "twenty_year_savings": 69667,
+              "twenty_year_savings_present_value": 46045.555,
+              "upfront_cost": 0
+            },
+            "loan_details": {
+              "first_year_savings": 2559,
+              "other_payments_description": "240 monthly loan payments of $189.  Assumes 6.6% interest.",
+              "payback_period_in_years": -1,
+              "total_other_payments": 45344.844,
+              "twenty_year_savings": 71106,
+              "twenty_year_savings_present_value": 47062.49,
+              "upfront_cost": 0
+            },
+            "maximum_size": false,
+            "num_panels": 41,
+            "recommended_size": true,
+            "size_assumptions": {
+              "federal_description": "Federal Investment Tax Credit (ITC)",
+              "federal_incentive": 10746,
+              "initial_kwh_per_year": 0,
+              "out_of_pocket_cost": 35823,
+              "srec_total": 0,
+              "state_description": "State tax credit",
+              "state_incentive": 0,
+              "total_remaining_bill": 3731,
+              "utility_incentive": 0
+            }
+          }
+        ]
+      },
+      {
+        "average_monthly_bill": 450,
+        "bill_assumptions": {
+          "current_kwh_per_year": 0,
+          "twenty_year_cost_without_solar": 135205
+        },
+        "default_bill": false,
+        "solar_savings_for_bill_and_size": [
+          {
+            "annual_savings": 3062.8,
+            "carbon_offset_in_trees": 0,
+            "energy_independence_percent": 98.63681,
+            "infull_details": {
+              "first_year_savings": 5396,
+              "other_payments_description": "Modern solar arrays use micro-inverters and should require no maintenance during their first 20 years.",
+              "payback_period_in_years": 4.75,
+              "total_other_payments": 0,
+              "twenty_year_savings": 130287,
+              "twenty_year_savings_present_value": 61199.656,
+              "upfront_cost": 27301
+            },
+            "leasing_details": {
+              "first_year_savings": 2850,
+              "other_payments_description": "240 monthly lease payments of $212.",
+              "payback_period_in_years": -1,
+              "total_other_payments": 50932.953,
+              "twenty_year_savings": 79354,
+              "twenty_year_savings_present_value": 52505.496,
+              "upfront_cost": 0
+            },
+            "loan_details": {
+              "first_year_savings": 2928,
+              "other_payments_description": "240 monthly loan payments of $206.  Assumes 6.6% interest.",
+              "payback_period_in_years": -1,
+              "total_other_payments": 49366.336,
+              "twenty_year_savings": 80921,
+              "twenty_year_savings_present_value": 53612.617,
+              "upfront_cost": 0
+            },
+            "maximum_size": false,
+            "num_panels": 45,
+            "recommended_size": true,
+            "size_assumptions": {
+              "federal_description": "Federal Investment Tax Credit (ITC)",
+              "federal_incentive": 11700,
+              "initial_kwh_per_year": 0,
+              "out_of_pocket_cost": 39000.03,
+              "srec_total": 0,
+              "state_description": "State tax credit",
+              "state_incentive": 0,
+              "total_remaining_bill": 4918,
+              "utility_incentive": 0
+            }
+          }
+        ]
+      },
+      {
+        "average_monthly_bill": 500,
+        "bill_assumptions": {
+          "current_kwh_per_year": 0,
+          "twenty_year_cost_without_solar": 150227
+        },
+        "default_bill": false,
+        "solar_savings_for_bill_and_size": [
+          {
+            "annual_savings": 3463.8,
+            "carbon_offset_in_trees": 0,
+            "energy_independence_percent": 99.65911,
+            "infull_details": {
+              "first_year_savings": 6031,
+              "other_payments_description": "Modern solar arrays use micro-inverters and should require no maintenance during their first 20 years.",
+              "payback_period_in_years": 4.75,
+              "total_other_payments": 0,
+              "twenty_year_savings": 145655,
+              "twenty_year_savings_present_value": 68854.555,
+              "upfront_cost": 30080
+            },
+            "leasing_details": {
+              "first_year_savings": 3225,
+              "other_payments_description": "240 monthly lease payments of $234.",
+              "payback_period_in_years": -1,
+              "total_other_payments": 56119.336,
+              "twenty_year_savings": 89535,
+              "twenty_year_savings_present_value": 59275.094,
+              "upfront_cost": 0
+            },
+            "loan_details": {
+              "first_year_savings": 3312,
+              "other_payments_description": "240 monthly loan payments of $227.  Assumes 6.6% interest.",
+              "payback_period_in_years": -1,
+              "total_other_payments": 54393.2,
+              "twenty_year_savings": 91261,
+              "twenty_year_savings_present_value": 60494.95,
+              "upfront_cost": 0
+            },
+            "maximum_size": false,
+            "num_panels": 50,
+            "recommended_size": true,
+            "size_assumptions": {
+              "federal_description": "Federal Investment Tax Credit (ITC)",
+              "federal_incentive": 12891,
+              "initial_kwh_per_year": 0,
+              "out_of_pocket_cost": 42971.312,
+              "srec_total": 0,
+              "state_description": "State tax credit",
+              "state_incentive": 0,
+              "total_remaining_bill": 4573,
+              "utility_incentive": 0
+            }
+          }
+        ]
+      }
+    ]
+  }
+}

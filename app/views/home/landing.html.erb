@@ -1,15 +1,95 @@
 <div id="map"></div>
+<div class="logo"></div>
+<div class="search-bar">
+  <div class="mdl-textfield mdl-js-textfield">
+    <input class="mdl-textfield__input" type="text" id="address" value="466 41st St, Oakland, CA">
+    <label class="mdl-textfield__label" for="address">Enter Your Address</label>
+  </div>
+  <!-- <button class="mdl-button mdl-js-button mdl-button--raised mdl-js-ripple-effect">Search</button> -->
+  <button class="mdl-button mdl-js-button mdl-button--icon">
+    <i class="material-icons">search</i>
+  </button>
+</div>
 <aside>
   <div class="rel">
     <img class="" data-bind="attr: {src: streetView()}">
     <!-- <div class="marker">$ 1,000</div> -->
     <!-- <img class="profile-pic" src="<%= asset_path('couple.png')%>"> -->
   </div>
-  <div class="rel aside-section">
-    <h3 data-bind="text: value">$ 1,000</h3>
-    <h5 data-bind="text: address">466 41st St, Oakland, CA</h5>
+  <div class="rel aside-section" data-bind="css: {yellow: status() == 'Live Data', green: status() == 'Verified', blue: status() == 'Estimated'}">
+    <h6 class="mb0" data-bind="text: status()"></h6>
+    <h3 class="mb0">
+      <span data-bind="text: valueFormatted()">$ 1,000</span>
+      <span class="small">yearly savings</span>
+    </h3>
+    <h5 data-bind="text: address"></h5>
+  </div>
+  <div class="rel aside-section" data-bind="visible: status() == 'Estimated'">
+    <p class="smaller">
+      Verifying involves accessing your utility bills through UtilityAPI and receiving an accurate solar system value price based on usage.
+    </p>
+    <h5 class="">Own this home?</h5>
+    <button class="mdl-button mdl-js-button mdl-button--raised mdl-js-ripple-effect mdl-button--colored mdl-button--colored--green" data-bind="click: verify">Get Verified</button>
+    <h5 class="">Know who does?</h5>
+    <button class="mdl-button mdl-js-button mdl-button--raised mdl-js-ripple-effect" data-bind="click: requestReferral">Invite Neighbor</button>
+  </div>
+  <div class="rel aside-section" data-bind="visible: status() == 'Verified'">
+    <div class="kWh">
+      <span>Yearly energy production:</span>
+      <span class="pull-right" data-bind="text: valueProduction"></span>
+    </div>
+    <div class="kWh">
+      <span>Yearly energy consumption:</span>
+      <span class="pull-right" data-bind="text: valueConsumption"></span>
+    </div>
+    <hr>
+    <div class="logos">
+      <span class="float-right" data-bind="text: bid1Formatted"></span>
+      <img class="bid-logo" src="<%= asset_path('solarcity.png') %>">
+    </div>
+    <hr>
+    <div class="logos">
+      <span class="float-right" data-bind="text: bid2Formatted"></span>
+      <img class="bid-logo" src="<%= asset_path('sunpower.png') %>">
+    </div>
+    <hr>
+    <div class="logos">
+      <span class="float-right" data-bind="text: bid3Formatted"></span>
+      <img class="bid-logo" src="<%= asset_path('sunrun.png') %>">
+    </div>
+    <hr>
+    <h5 class="">Find a refferal?</h5>
+    <button class="mdl-button mdl-js-button mdl-button--raised mdl-js-ripple-effect mdl-button--colored mdl-button--colored--yellow" data-bind="click: requestReferral">Connect</button>
+    <h5 class="">Already have solar?</h5>
+    <button class="mdl-button mdl-js-button mdl-button--raised mdl-js-ripple-effect mdl-button--colored mdl-button--colored--yellow" data-bind="click: requestReferral">Connect</button>
+  </div>
+  <div class="rel aside-section" data-bind="visible: status() == 'Live Data'">
+    <div class="kWh">
+      <span>Yearly energy production:</span>
+      <span class="pull-right" data-bind="text: valueProduction"></span>
+    </div>
+    <div class="kWh">
+      <span>Yearly energy consumption:</span>
+      <span class="pull-right" data-bind="text: valueConsumption"></span>
+    </div>
+    <hr>
     <p>
-      <button class="mdl-button mdl-js-button mdl-button--raised mdl-js-ripple-effect mdl-button--colored" data-bind="click: verify">Verify Quote</button>
+      <button class="mdl-button mdl-js-button mdl-button--raised mdl-js-ripple-effect mdl-button--colored" data-bind="visible: status() == 'Estimated', click: verify">Verify Quote</button>
+      <!-- <button class="mdl-button mdl-js-button mdl-button--raised mdl-js-ripple-effect mdl-button--colored mdl-button--colored--yellow" data-bind="visible: status() == 'Live Data', click: requestReferral">Request Referral</button> -->
+    </p>
+    <p>
+      <h5 class="mb0">Make a refferal</h5>
+      <div class="mdl-textfield mdl-js-textfield">
+        <input class="mdl-textfield__input" type="text" id="address" value="">
+        <label class="mdl-textfield__label" for="address">Your Email Address</label>
+      </div>
+      <div class="mdl-textfield mdl-js-textfield">
+        <input class="mdl-textfield__input" type="text" id="address" value="">
+        <label class="mdl-textfield__label" for="address">Question</label>
+      </div>
+      <div class="pull-right">
+        <button class="mdl-button mdl-js-button mdl-button--raised mdl-js-ripple-effect" data-bind="click: requestReferral">Ask a Question</button>
+      </div>
     </p>
   </div>
   <!-- <p>
@@ -25,12 +105,13 @@
 <div id="map-overlay" class="background-popup"></div>
 <div class="left-part">
   <form id="search-form" class="form-inline popup">
-    <h2>SolarMaps</h2>
+    <!-- <h2>SolarMaps</h2> -->
+    <h2><img class="logo-hor" src="<%= asset_path('logo-hor.png') %>"></h2>
     <div class="form-group2">
       <!-- <input class="form-control" placeholder="Enter Your Address" /> -->
       <!-- <button type="submit" class="btn btn-success">Search</button> -->
       <div class="mdl-textfield mdl-js-textfield">
-        <input class="mdl-textfield__input" type="text" id="address" value="466 41st St, Oakland, CA">
+        <input class="mdl-textfield__input" type="text" id="address" value="1810 E 25th St, Oakland, CA">
         <label class="mdl-textfield__label" for="address">Enter Your Address</label>
       </div>
 
