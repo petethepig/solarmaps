@@ -12,6 +12,8 @@
 //
 //= require jquery
 //= require custom_marker
+//= require knockout
+//= require main_view
 //= require jquery_ujs
 
 
@@ -97,18 +99,20 @@ function initQuotes(){
         $(self).addClass("fade-in");
       }, Math.random()*1000);
       $(this).click(function(){
-        // $("#map-overlay").show();
-        // $(".property-info").show();
-        // setTimeout(function(){
-        //   $("#map-overlay").addClass("fade-in");
-        //   $(".property-info").addClass("fade-in");
-        // }, 100)
+        //
       })
     });
   }, 50)
 }
 
+function updateQuote(){
+  console.log("update quote")
+}
+
 $(function() {
+
+  ko.applyBindings(new MainView());
+
   initMap();
 
   setTimeout(function() {
@@ -123,9 +127,7 @@ $(function() {
     var times = 0;
     var interval = setInterval(function(){
       resizeMap();
-      console.log(times)
       if(times > 1000 / FPS){
-        // console.log(stop)
         clearInterval(interval);
       }
       times++;
@@ -135,6 +137,27 @@ $(function() {
       $("#map-overlay").hide();
       initQuotes();
     }, 700);
+  });
+
+  $(".verify-btn").click(function(){
+    // console.log("verify")
+    // window.open(UTILITY_API_ENDPOINT);
+    $("#map-overlay").show();
+    $(".utility-popup").show();
+    setTimeout(function(){
+      $(".utility-iframe").attr('src', UTILITY_API_ENDPOINT);
+      $("#map-overlay").addClass("fade-in");
+      $(".utility-popup").addClass("fade-in");
+    }, 100)
+    $("#map-overlay").click(function(){
+      $("#map-overlay").removeClass("fade-in");
+      $(".utility-popup").removeClass("fade-in");
+      setTimeout(function(){
+        $("#map-overlay").hide();
+        $(".utility-popup").hide();
+        updateQuote();
+      }, 1000);
+    });
   });
 });
 

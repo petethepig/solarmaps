@@ -1,4 +1,27 @@
 <div id="map"></div>
+<aside>
+  <div class="rel">
+    <img class="" data-bind="attr: {src: streetView()}">
+    <!-- <div class="marker">$ 1,000</div> -->
+    <!-- <img class="profile-pic" src="<%= asset_path('couple.png')%>"> -->
+  </div>
+  <div class="rel aside-section">
+    <h3 data-bind="text: value">$ 1,000</h3>
+    <h5 data-bind="text: address">466 41st St, Oakland, CA</h5>
+    <p>
+      <button class="mdl-button mdl-js-button mdl-button--raised mdl-js-ripple-effect mdl-button--colored" data-bind="click: verify">Verify Quote</button>
+    </p>
+  </div>
+  <!-- <p>
+    <button class="mdl-button mdl-js-button mdl-button--raised mdl-js-ripple-effect mdl-button--colored">Get The Button</button>
+  </p> -->
+  <!-- <h6>Button Code:</h6>
+  <div class="code-wrapper">
+    <code>
+      &lt;script src="//solarmaps.io/button?address=466+41st+St,+Oakland,+CA"&gt;&lt;/script&gt;
+    </code>
+  </div> -->
+</aside>
 <div id="map-overlay" class="background-popup"></div>
 <div class="left-part">
   <form id="search-form" class="form-inline popup">
@@ -7,31 +30,15 @@
       <!-- <input class="form-control" placeholder="Enter Your Address" /> -->
       <!-- <button type="submit" class="btn btn-success">Search</button> -->
       <div class="mdl-textfield mdl-js-textfield">
-        <input class="mdl-textfield__input" type="text" id="address">
+        <input class="mdl-textfield__input" type="text" id="address" value="466 41st St, Oakland, CA">
         <label class="mdl-textfield__label" for="address">Enter Your Address</label>
       </div>
 
-      <button class="mdl-button mdl-js-button mdl-button--raised mdl-js-ripple-effect mdl-button--accent">Search</button>
+      <button class="mdl-button mdl-js-button mdl-button--raised mdl-js-ripple-effect mdl-button--colored">Search</button>
     </div>
   </form>
 </div>
-<aside>
-  <div class="rel">
-    <img class="" src="https://maps.googleapis.com/maps/api/streetview?size=400x200&location=40.720032,-73.988354&fov=90&heading=235&pitch=10&key=AIzaSyAWHGPmYjY6LL3WdhdDH2e_m4W4MfOrBWM">
-    <div class="marker">$ 1,000</div>
-  </div>
-  <h5>466 41st St, Oakland, CA</h5>
-  <p>
-    <button class="mdl-button mdl-js-button mdl-button--raised mdl-js-ripple-effect mdl-button--accent">Verify Quote</button>
-  </p>
-  <p>
-    <button class="mdl-button mdl-js-button mdl-button--raised mdl-js-ripple-effect mdl-button--accent">Get The Button</button>
-  </p>
-  <code>
-    &lt;script src="//solarmaps.io/button?address=466+41st+St,+Oakland,+CA"&gt;&lt;/script&gt;
-  </code>
-</aside>
-<div class="popup property-info" id="property-popup" style="display: none;">
-
+<div class="popup utility-popup" id="property-popup" style="display: none;">
+  <iframe class="utility-iframe"></iframe>
 </div>
 <!-- <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyAWHGPmYjY6LL3WdhdDH2e_m4W4MfOrBWM&callback=initMap" async defer></script> -->
