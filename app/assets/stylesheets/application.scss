@@ -127,6 +127,12 @@ aside {
   &.green {
     background: #2ECC40;
   }
+
+  &.fade-in.active {
+    transform: scale(1.25);
+    z-index: 10000;
+  }
+
   border-radius: 3px;
   line-height: 1.25;
   padding: 4px 7px;

@@ -117,7 +117,7 @@ function initQuotes(){
   var mapping ={
     green: "Verified",
     blue: "Estimated",
-    yellow: "Live Data",
+    yellow: "Referer",
   }
 
   function toStr(bid){
@@ -175,11 +175,16 @@ function initQuotes(){
         $(self).addClass("fade-in");
       }, Math.random()*1000);
       $(this).click(function(){
+        $(".marker").removeClass("active");
+        setTimeout(function(){
+          $(self).addClass("active");
+        })
         var data = $(self).data();
         window.mainView.address(data[0]);
         window.mainView.value(data[3]);
         window.mainView.status(data[4]);
         $(".search-bar input").val(data[0]);
+        window.selectedMarker = self;
         // console.log();
       })
     });

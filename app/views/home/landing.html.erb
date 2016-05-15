@@ -16,7 +16,7 @@
     <!-- <div class="marker">$ 1,000</div> -->
     <!-- <img class="profile-pic" src="<%= asset_path('couple.png')%>"> -->
   </div>
-  <div class="rel aside-section" data-bind="css: {yellow: status() == 'Live Data', green: status() == 'Verified', blue: status() == 'Estimated'}">
+  <div class="rel aside-section" data-bind="css: {yellow: status() == 'Referer', green: status() == 'Verified', blue: status() == 'Estimated'}">
     <h6 class="mb0" data-bind="text: status()"></h6>
     <h3 class="mb0">
       <span data-bind="text: valueFormatted()">$ 1,000</span>
@@ -63,7 +63,7 @@
     <h5 class="">Already have solar?</h5>
     <button class="mdl-button mdl-js-button mdl-button--raised mdl-js-ripple-effect mdl-button--colored mdl-button--colored--yellow" data-bind="click: requestReferral">Connect</button>
   </div>
-  <div class="rel aside-section" data-bind="visible: status() == 'Live Data'">
+  <div class="rel aside-section" data-bind="visible: status() == 'Referer'">
     <div class="kWh">
       <span>Yearly energy production:</span>
       <span class="pull-right" data-bind="text: valueProduction"></span>
@@ -75,7 +75,7 @@
     <hr>
     <p>
       <button class="mdl-button mdl-js-button mdl-button--raised mdl-js-ripple-effect mdl-button--colored" data-bind="visible: status() == 'Estimated', click: verify">Verify Quote</button>
-      <!-- <button class="mdl-button mdl-js-button mdl-button--raised mdl-js-ripple-effect mdl-button--colored mdl-button--colored--yellow" data-bind="visible: status() == 'Live Data', click: requestReferral">Request Referral</button> -->
+      <!-- <button class="mdl-button mdl-js-button mdl-button--raised mdl-js-ripple-effect mdl-button--colored mdl-button--colored--yellow" data-bind="visible: status() == 'Referer', click: requestReferral">Request Referral</button> -->
     </p>
     <p>
       <h5 class="mb0">Make a refferal</h5>
@@ -111,7 +111,7 @@
       <!-- <input class="form-control" placeholder="Enter Your Address" /> -->
       <!-- <button type="submit" class="btn btn-success">Search</button> -->
       <div class="mdl-textfield mdl-js-textfield">
-        <input class="mdl-textfield__input" type="text" id="address" value="1940 13th Ave, Oakland, CA">
+        <input class="mdl-textfield__input" type="text" id="address" value="2131 12th Ave, Oakland, CA ">
         <label class="mdl-textfield__label" for="address">Enter Your Address</label>
       </div>
 

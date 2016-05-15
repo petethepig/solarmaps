@@ -1,9 +1,9 @@
 class MainView
   constructor: () ->
     @validated = ko.observable(false)
-    @value = ko.observable(1000)
-    @status = ko.observable("Verified")
-    @address = ko.observable("466 41st St, Oakland, CA")
+    @value = ko.observable(2606)
+    @status = ko.observable("Estimated")
+    @address = ko.observable("2131 12th Ave, Oakland, CA ")
 
     @production = ko.computed =>
       Math.round(@value() * 2)
@@ -66,6 +66,8 @@ class MainView
       $('#map-overlay').removeClass 'fade-in'
       $('.utility-popup').removeClass 'fade-in'
       setTimeout (=>
+        $(selectedMarker).removeClass("blue").addClass("green")
+        @status("Verified")
         $('#map-overlay').hide()
         $('.utility-popup').hide()
         @updateQuote()
@@ -75,7 +77,7 @@ class MainView
 
   updateQuote: () =>
     @validated(true)
-    @value(Math.round(@value()*1.1))
+    @value(Math.round(@value() * 1.1))
 
   streetView: () =>
     address = encodeURIComponent(@address())
