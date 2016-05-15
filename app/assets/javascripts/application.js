@@ -117,7 +117,7 @@ function initQuotes(){
   var mapping ={
     green: "Verified",
     blue: "Estimated",
-    yellow: "Referer",
+    yellow: "Referrer",
   }
 
   function toStr(bid){

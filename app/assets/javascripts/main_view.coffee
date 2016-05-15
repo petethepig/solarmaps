@@ -66,7 +66,11 @@ class MainView
       $('#map-overlay').removeClass 'fade-in'
       $('.utility-popup').removeClass 'fade-in'
       setTimeout (=>
-        $(selectedMarker).removeClass("blue").addClass("green")
+        html = $(selectedMarker).removeClass("blue").addClass("green").html()
+        str = String(Math.round(@value() * 1.1))
+        str = str.split("").reverse().chunk(3).map((x) -> x.join("") ).join(",").split("").reverse().join("")
+        html = html.replace(/[0-9,]+/, str)
+        $(selectedMarker).removeClass("blue").addClass("green").html(html)
         @status("Verified")
         $('#map-overlay').hide()
         $('.utility-popup').hide()
